@@ -10,7 +10,7 @@
 
 ## Screenshot do Projeto
 
-<br><img src="tela.gif" alt="logo do game snake no formato png"><br>
+<br><img src="tela.gif" alt="gif do projeto turtle race"><br>
 
 
 <h2>:bookmark_tabs: Descrição</h2>
@@ -30,7 +30,7 @@
 1. Criação da tartaruga para desenhar o cenário, no caso a pista de corrida;
 2. Desenhar a pista de corrida;
 3. Criação das Tartarugas com nomes e cores;
-4. Processo da carrida;
+4. Processo da corrida;
 5. Exibição da tartaruga vencedora.
 
 ## Tartaruga para pista de Corrida
@@ -53,9 +53,9 @@ Existe um sistema de coordenadas posições x e y, em que sua origem (centro)
 
 ### Sistema de coordenadas do Turtle desenhado com o próprio Turtle.
 
-<br><img src="grid.png" alt="logo do game snake no formato png"><br>
+<br><img src="grid.png" alt="logo do grid no formato png"><br>
 
-<p>Todas as tartarugas que criarmos estarão inicialmente localizadas na origem (ponto onde x=0 e y=0) desse sistema e estarão sempre virados para a direita. Elas possuem o formato padrão de seta.<br>
+<p>Todas as tartarugas que criarmos estarão inicialmente localizadas na origem (ponto onde x = 0 e y = 0) desse sistema e estarão sempre virados para a direita. Elas possuem o formato padrão de seta.<br>
 Lembrando que todos os comandos possíveis de movimento, controle da caneta, cores, etc., pode ser visualizado na documentação auxiliar do módulo Turtle.  <a href="https://medium.com/reflex%C3%A3o-computacional/m%C3%B3dulo-turtle-d8949db55008" target="_blank">Neste Link.</a></p><br>
 
 ### Nota: Evidente que utilizando funções, torna o código mais elegante e funcional... 
